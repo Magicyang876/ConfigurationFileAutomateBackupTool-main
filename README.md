@@ -5,7 +5,7 @@ Fill the CSV file and run the script.
 ## CSV Sample
 |Host|Folder|FileName|Comment|UserName|Enabled|
 |---|---|---|---|---|---|
-|   |D:\A   |  *.xml|People.csv |   |   | N  |
+|   |D:\A   |  *.xml\|People.csv |   |   | N  |
 | sps2019  |C:\inetpub\wwwroot\wss\VirtualDirectories   |web.config   | sharepoint  |  contoso\op1 |  Y |
 |  192.168.23.12 |  C:\inetpub\wwwroot\wss\VirtualDirectories | web.config  |sharepoint   |   | Y  |
 
