@@ -1,0 +1,6 @@
+Host,Folder,FileName,Comment,UserName,Enabled
+,C:\inetpub\wwwroot,web.config|appsettings.json,App1,,Y
+,D:\A,*.xml|People.csv,,,N
+,D:\Temp,*.pdf,,,N
+sps2019,C:\inetpub\wwwroot\wss\VirtualDirectories,web.config,sharepoint web.config,contoso\op1,Y
+192.168.23.12,C:\inetpub\wwwroot\wss\VirtualDirectories,web.config,sharepoint web.config,,Y
